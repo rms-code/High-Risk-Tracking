@@ -1,7 +1,9 @@
 # High-Risk-Tracking
 Tracking Internal Users "High Risk" Activity
 
-Backend data injection part.
+#### The UI for this is still being made, will update later.
+
+Backend data injection
 --------------------------------------------------
 
 The goal of it is to use all the log data from the SIEM (graylog) to build a database with the ability to use a tooled UI to use the data from a database, to analyze high risk user activity and give the security team the ability to drop them into High Risk profiles (be it different A/V, HIPS, IPS|IDS, Web Filtering etc), also the abillity to track user risk and report if certain people need more training.
