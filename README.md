@@ -25,3 +25,5 @@ Not each column from each source will be filled, but that is ok, we really only 
 -------------------------------------------------------------
 
 You will need to encrypt your password into a file, and also use your REST api into whatever SIEM you choose, the code should give you the general idea/starting point if you dont use graylog and HIPS/AV/Application Whitelisting tools listed above.
+
+![image](https://i.imgur.com/EgVbbio.jpg)
