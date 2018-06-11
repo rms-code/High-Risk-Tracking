@@ -12,7 +12,7 @@ The goal of it is to use all the log data from the SIEM (graylog) to build a dat
 
 The application data used, but could be easily changed to fit different software is:
 
-ESET, Airlock Digital, Malwarebytes, Fortigate + Fortigate Sniffers
+ESET, Airlock Digital, Malwarebytes, Fortigate + Fortigate Sniffers, planning to add more like sysmon threat hunting queries(the automated obvious ones, of course).
 
 -----------------------------------------------------------
 
