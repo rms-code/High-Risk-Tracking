@@ -29,5 +29,5 @@ You will need to encrypt your password into a file, and also use your REST api i
 
 ### Sample Screenshot of the database part with some data from ESET and Malwarebytes, but all catagories would have similair info :)
 
-
+--------------------------------------------------------------------
 ![image](https://i.imgur.com/EgVbbio.jpg)
