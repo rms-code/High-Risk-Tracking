@@ -26,4 +26,8 @@ Not each column from each source will be filled, but that is ok, we really only 
 
 You will need to encrypt your password into a file, and also use your REST api into whatever SIEM you choose, the code should give you the general idea/starting point if you dont use graylog and HIPS/AV/Application Whitelisting tools listed above.
 
+
+### Sample Screenshot of the database part with some data from ESET and Malwarebytes, but all catagories would have similair info :)
+
+
 ![image](https://i.imgur.com/EgVbbio.jpg)
