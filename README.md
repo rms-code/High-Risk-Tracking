@@ -31,10 +31,10 @@ You will need to encrypt your password into a file, and also use your REST api i
 --------------------------------------------------------------------
 ![image](https://i.imgur.com/EgVbbio.jpg)
 
-#### UI
+## UI
 -------------------------------------------------------------------------
 
-####I will break down the code and UI shortly
+#### I will break down the code and UI shortly
 -----------------------------------------------------------------------
 ![image](https://i.imgur.com/eyrCq8x.jpg)
 ![image](https://i.imgur.com/dw1gRry.jpg)
