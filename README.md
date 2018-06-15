@@ -34,7 +34,33 @@ You will need to encrypt your password into a file, and also use your REST api i
 ## UI
 -------------------------------------------------------------------------
 
-#### I will break down the code and UI shortly
+Simple UI(# that isn't complete).
+
+Search by Year-Month-Day (from - to) with Sort/Group up IPs, or show only tagged fields
+
+Show all risks - gives everything heads up E.g - second screenshot, you can also sort by IP/tagged fields
+
+Export to CSV, options apply to export as well(exports to folder app ran from)
+
+Tracking levels 1/2/3 are used to track a user(ip/workstation).
+
+Level 1 was a "lets watch this user/ip/workstation" say the user has gone to a bad website or opened up spam a few times, but could of been some mistakes.
+
+Level 2 was Level 1 but not innocent or, they need extra training, this would escalate to there manager, etc.
+
+Level 3 was Level 2 but nothing changed and activity gets worse.
+
+
+The level system also lets you trend/get metrics on a certain user/ip/workstation, to see how for example they got to level 3, or 2, etc. 
+
+---------------------------------------------------------------------------
+
+#### TO BE ADDED
+
+Disable NIC on $PC
+Add to High Risk Profiles for bigger lockdown and filtering (webfilter, IPS/DLP, HIPS, etc)
+Export taggings for metrics/trending
+
 -----------------------------------------------------------------------
 ![image](https://i.imgur.com/eyrCq8x.jpg)
 ![image](https://i.imgur.com/dw1gRry.jpg)
