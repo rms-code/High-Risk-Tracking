@@ -61,7 +61,7 @@ The level system also lets you trend/get metrics on a certain user/ip/workstatio
 
 Disable NIC on $PC
 Add to High Risk Profiles for bigger lockdown and filtering (webfilter, IPS/DLP, HIPS, etc)
-Export taggings for metrics/trending
+
 
 -----------------------------------------------------------------------
 ![image](https://i.imgur.com/eyrCq8x.jpg)
