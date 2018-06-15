@@ -1,7 +1,6 @@
 # High-Risk-Tracking-Internal
 Tracking Internal Users "High Risk" Activity
 
-#### The UI for this is still being made, will update later.
 
 Backend data injection
 --------------------------------------------------
@@ -31,3 +30,12 @@ You will need to encrypt your password into a file, and also use your REST api i
 
 --------------------------------------------------------------------
 ![image](https://i.imgur.com/EgVbbio.jpg)
+
+### UI
+
+I will break down the code and UI shortly
+-----------------------------------------------------------------------
+![image](https://i.imgur.com/eyrCq8x.jpg)
+![image](https://i.imgur.com/dw1gRry.jpg)
+![image](https://i.imgur.com/kUr4hAd.jpg)
+
