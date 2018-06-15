@@ -40,6 +40,8 @@ Search by Year-Month-Day (from - to) with Sort/Group up IPs, or show only tagged
 
 Show all risks - gives everything heads up E.g - second screenshot, you can also sort by IP/tagged fields
 
+#### All results also have criteria search capabilities in the popup.
+
 Export to CSV, options apply to export as well(exports to folder app ran from)
 
 Tracking levels 1/2/3 are used to track a user(ip/workstation).
